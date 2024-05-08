@@ -1,0 +1,32 @@
+.LoginContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 80vh;
+}
+
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+.inp{
+    border: 2px solid rgb(82, 78, 78);
+    border-radius: 10px;
+   margin: 10px;
+}
+.inp input{
+    width: 50vw;
+    max-width: 400px;
+    padding: 4px;
+}
+p{
+    text-align: center;
+    color: rgb(68, 108, 86);
+    font-size: medium;
+    font-weight: 500;
+}
+

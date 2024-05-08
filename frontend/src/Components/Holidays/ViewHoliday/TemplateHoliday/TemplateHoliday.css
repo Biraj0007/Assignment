@@ -1,0 +1,14 @@
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.element{
+    font-weight: 1000;
+    margin: 3px;
+    color: rgb(0, 92, 70);
+}

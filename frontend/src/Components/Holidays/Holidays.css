@@ -1,0 +1,18 @@
+.HolidayContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.viewMode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+h4{
+    margin: 20px;
+    border: 2px solid rgb(112, 107, 107);
+    padding: 4px
+}

@@ -1,0 +1,48 @@
+.floatContainer{
+    position: fixed;
+    top: 10vh;
+    right: 10vw;
+    width: 80vw;
+    height:80vh;
+    /* // border: 3px solid #73AD21; */
+    border-radius:10px;
+    /* // backgroundColor: aliceblue; */
+    padding: 3vw;
+    z-index: 3;
+    border: 3px solid #303030;
+    background-color: #c4c4c4;
+}
+.AddHolidayContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.updateHolidayContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 70vh;
+    background-color: rgb(0, 144, 170);
+    border-radius: 40px 0px 40px 0px;
+    flex-wrap: wrap;
+}
+.inp2{
+    border: 2px solid rgb(231, 231, 231);
+    border-radius: 20px 0px 20px 0px;
+    margin: 1vh 1.5vh;
+}
+.inp2 input{
+    width: 50vw;
+    max-width: 600px;
+    padding: 4px;
+    border-radius: 20px 0px 20px 0px;
+}
+.close{
+    position:fixed;
+    top: 11vh;
+    right:11vw
+}
